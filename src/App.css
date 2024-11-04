@@ -1,0 +1,10 @@
+#root {
+  display: grid;
+  grid-template-rows: auto auto auto auto 1fr;
+  gap: 10px;
+  grid-template-columns: 1fr;
+  width: 100%;
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 10px 20px;
+}
